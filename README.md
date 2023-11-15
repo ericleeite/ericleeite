@@ -1,6 +1,7 @@
 ## Olá, eu sou o Eric Leite 😃
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericdonida/)
+
 [![Biyo](https://img.shields.io/badge/Portifolio-dados-yellow)](https://biyo.page/p/ericdonida)
 
 ![Eric Stats](https://github-readme-stats.vercel.app/api?username=ericleeite&show_icons=true&theme=dark)
